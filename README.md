@@ -13,7 +13,7 @@ Things you may want to cover:
 
 * Database creation
 # Mercari DB設計
-## addressesテーブル
+## addressesテーブルです
 |Column|Type|Options|
 |------|----|-------|
 |family_name|string|null: false|
